@@ -545,7 +545,7 @@ html.dark .social-btn:hover { background: rgba(232, 0, 14, 0.3); }
   font-size: 0.92rem;
   font-weight: 500;
   color: var(--white);
-  text-decoration: ;
+  text-decoration: none;
   transition: opacity 0.2s;
 }
 .contact-info-item:hover { opacity: 0.75; }
